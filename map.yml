@@ -1,0 +1,4 @@
+map_name: hex_globe10
+games:
+- {game_name: HexGlobe FFA w TWW, file_name: HexGlobeFFA_w_TWW.xml}
+- {game_name: HexGlobe FFA, file_name: HexGlobeFFA.xml}
